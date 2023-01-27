@@ -1,0 +1,15 @@
+C:\Users\di272\RiderProjects\Minesweeper\Minesweeper\bin\Debug\net7.0\Minesweeper.exe
+C:\Users\di272\RiderProjects\Minesweeper\Minesweeper\bin\Debug\net7.0\Minesweeper.deps.json
+C:\Users\di272\RiderProjects\Minesweeper\Minesweeper\bin\Debug\net7.0\Minesweeper.runtimeconfig.json
+C:\Users\di272\RiderProjects\Minesweeper\Minesweeper\bin\Debug\net7.0\Minesweeper.dll
+C:\Users\di272\RiderProjects\Minesweeper\Minesweeper\bin\Debug\net7.0\Minesweeper.pdb
+C:\Users\di272\RiderProjects\Minesweeper\Minesweeper\obj\Debug\net7.0\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\di272\RiderProjects\Minesweeper\Minesweeper\obj\Debug\net7.0\Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\di272\RiderProjects\Minesweeper\Minesweeper\obj\Debug\net7.0\Minesweeper.AssemblyInfoInputs.cache
+C:\Users\di272\RiderProjects\Minesweeper\Minesweeper\obj\Debug\net7.0\Minesweeper.AssemblyInfo.cs
+C:\Users\di272\RiderProjects\Minesweeper\Minesweeper\obj\Debug\net7.0\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\di272\RiderProjects\Minesweeper\Minesweeper\obj\Debug\net7.0\Minesweeper.dll
+C:\Users\di272\RiderProjects\Minesweeper\Minesweeper\obj\Debug\net7.0\refint\Minesweeper.dll
+C:\Users\di272\RiderProjects\Minesweeper\Minesweeper\obj\Debug\net7.0\Minesweeper.pdb
+C:\Users\di272\RiderProjects\Minesweeper\Minesweeper\obj\Debug\net7.0\Minesweeper.genruntimeconfig.cache
+C:\Users\di272\RiderProjects\Minesweeper\Minesweeper\obj\Debug\net7.0\ref\Minesweeper.dll
